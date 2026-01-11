@@ -24,7 +24,7 @@ This tutorial explains how a ticket moves from intake to resolution in the open-
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="<img width="1442" height="820" alt="image" src="https://github.com/user-attachments/assets/ac5f5951-e6d6-47bb-bd63-bfd46d055403" />
+<img src="https://<img width="1442" height="820" alt="image" src="https://github.com/user-attachments/assets/3abdc5dd-0f64-4206-8317-4eff4196637f" />
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
