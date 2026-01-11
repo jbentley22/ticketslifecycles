@@ -33,7 +33,8 @@ When viewing the ticket page in the osTicket application as the help desk agent 
 <br />
 
 <p>
-  ![osTicket open top](https://github.com/user-attachments/assets/1397b84e-920b-4f69-90c0-5d44a3c2971e)
+
+
 
 </p>
 <p>
