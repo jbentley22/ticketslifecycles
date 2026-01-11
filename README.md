@@ -28,7 +28,7 @@ This tutorial explains how a ticket moves from intake to resolution in the open-
 
 </p>
 <p>
-When viewing the ticket page in the osTicket application as the help desk agent "John Doe," we see that an open ticket has been created by employee Ken regarding the CFO's laptop  not powering on.  
+When viewing the ticket page in the osTicket application as the help desk agent "John," we see that an open ticket has been created by employee Ken regarding the CFO's laptop  not powering on.  
 </p>
 <br />
 
