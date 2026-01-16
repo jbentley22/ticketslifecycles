@@ -28,7 +28,7 @@ This tutorial explains how a ticket moves from intake to resolution in the open-
 
 </p>
 <p>
-When viewing the ticket page in the osTicket application as the help desk agent "John," we see that an open ticket has been created by employee Ken regarding the CFO's laptop  not powering on.  
+When viewing the ticket page in the osTicket application as the help desk agent "John," we see that an open ticket has been created by employee Ken regarding the CFO's laptop  not powering on. This portion is the intake of the ticket.   
 </p>
 <br />
 
@@ -36,7 +36,7 @@ When viewing the ticket page in the osTicket application as the help desk agent 
 <img width="2806" height="1530" alt="image" src="https://github.com/user-attachments/assets/354edb4d-0c05-47d6-852f-a1e1dd058973" />
 </p>
 
-<p>After opening the ticket, I can view the additional important info on the ticket, such as the SLA and due date, the help topic, which department was this ticket assigned to, and the priority of this ticket. I am also able to update this information if needed. Finally being able to view the additional information allows me the ability to see any additional notes input on the ticket in the thread shown. I then need to contact Ken to work through possible solutions and update the thread on this ticket. 
+<p>After opening the ticket, I can view the additional important info on the ticket, such as the SLA and due date, the help topic, which department was this ticket assigned to, and the priority of this ticket. I am also able to update this information if needed. Finally, being able to view the additional information allows me the ability to see any additional notes input on the ticket in the thread shown. I then need to contact Ken to work through possible solutions and update the thread and status on this ticket. 
 </p>
 <br />
 
