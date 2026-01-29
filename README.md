@@ -45,7 +45,7 @@ When viewing the ticket page in the osTicket application as the help desk agent 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once I have made contact with the creator of the ticket and resolve the issue I go back into the ticket system and enter in notes of what took place. This is so if in the future if the ticket needs to be revisited each step is properly documented. 
 </p>
 <br />
 
@@ -53,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The final step, since the ticket has been resolved, is to update the ticket to completed. This clears the ticket out of the system and avoids any SLA infractions. 
 </p>
 <br />
